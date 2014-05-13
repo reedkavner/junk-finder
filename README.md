@@ -5,8 +5,8 @@ Gmail Junk Finder is a little command line utility to find and quickly unsubscri
 
 ### Setup
 Install these two helpful libraries:
-1. [Gmail by Charlie Guo](https://github.com/charlierguo/gmail)
-2. [Beautifulsoup](http://www.crummy.com/software/BeautifulSoup/)
+- [Gmail by Charlie Guo](https://github.com/charlierguo/gmail)
+- [Beautifulsoup](http://www.crummy.com/software/BeautifulSoup/)
 
 ### Usage
 From the script's dirctory, run:
@@ -17,4 +17,4 @@ From the script's dirctory, run:
 
 For example...
 
-```python junk-finder.py 'kavner' 'sma$h_mouth_roxx' 7```
+```python junk-finder.py 'b_obama' 'sma$h_mouth_roxx' 7```
