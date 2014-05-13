@@ -18,3 +18,5 @@ From the script's dirctory, run:
 For example...
 
 ```python junk-finder.py 'b_obama' 'sma$h_mouth_roxx' 7```
+
+The script should automatically open the resulting HTML document in your default browser. If it's unable to, you'll have to do that manually.
